@@ -21,7 +21,7 @@ This portfolio website provides visitors with insights into my skills, accomplis
 
 To view the website locally:
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
+2. Open the `Neethu_portfolio.html` file in your web browser.
 
 ## Support
 
